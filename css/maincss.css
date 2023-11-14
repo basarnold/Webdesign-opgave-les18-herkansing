@@ -214,7 +214,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
    }  
 
   img
-     {float:right;
+     {
       padding:8px;
       border:1px solid white;
       margin:8px;
