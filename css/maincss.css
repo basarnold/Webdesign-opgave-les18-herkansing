@@ -186,6 +186,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
        color:white;
        font-size:14px;
        overflow:auto;
+       padding-left:15px;
      }
 
 
@@ -195,6 +196,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
         color:white;
         font-size:14px;
         overflow:auto;
+        padding-left:15px;
       }
 
 
@@ -205,6 +207,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
            color:white;
            overflow:auto;
            font-size:14px;
+           padding-left:15px;
        }
 
  ul{padding-top:100px;
