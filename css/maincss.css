@@ -34,7 +34,9 @@
 body {
       font-family: Raleway, Helvetica, Arial, sans-serif;
       background-color: #FAEBD7;
-      width:91.66%;
+      width:fixed;
+      margin:auto;
+      
      }
 
 header{   background-image: url(../img/roosendaal2.jpg);
@@ -96,7 +98,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
      {/*float:right;*/
       padding:5px;
       border:1px solid white;
-      margin:5px;
+      margin:25px;
       }
 
  footer  { 
@@ -296,7 +298,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
                   }
 
-            .col-6 {
+            .col-5 {
                     background-color: #B22222;
                     height:400px;
                     color:white;
