@@ -62,7 +62,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
        background-color: #DEB887;
        height:auto;/*120px;*/
        color:white;
-       font-size:16px;
+       font-size:18px;
        width:auto;/*100%;*/
        padding-top:50px;
        
@@ -278,6 +278,8 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
            .row{margin-top: 60px;
                 margin-left:0;
+                margin-right:auto;
+                font-size:16px;
                 
 
                }
@@ -286,7 +288,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
                    background-color: #DEB887;
                    height:400px;
                    color:white;
-                   font-size:14px;
+                   font-size:16px;
 
 
 
@@ -296,6 +298,8 @@ header{   background-image: url(../img/roosendaal2.jpg);
                    background-color: #B22222;
                    height:400px;
                    color:white;
+                   font-size:16px;
+
 
                   }
 
@@ -303,6 +307,8 @@ header{   background-image: url(../img/roosendaal2.jpg);
                     background-color: #B22222;
                     height:400px;
                     color:white;
+                    font-size:16px;
+
 
                     }
             ul{padding-top:0px;
