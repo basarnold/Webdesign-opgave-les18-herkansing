@@ -54,8 +54,8 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
 .row{
      margin-top: 10px;
-     margin-left:auto;
-     margin-right:auto;
+     margin-left:0px;
+     margin-right:0px;
      width:91.66%;
 
     }
@@ -281,6 +281,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
            .row{margin-top: 60px;
                 margin-left:0;
+                margin-right:0px;
 
                }
 
