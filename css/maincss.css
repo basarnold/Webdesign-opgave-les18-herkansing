@@ -35,6 +35,7 @@ body {
       font-family: Raleway, Helvetica, Arial, sans-serif;
       background-color: #FAEBD7;
       overflow:none;
+      position:fixed;
      }
 
 header{   background-image: url(../img/roosendaal2.jpg);
