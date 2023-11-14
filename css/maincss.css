@@ -84,7 +84,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
 .col-4 {
            background-color: #B22222;
-           height:720px;
+           height:auto;/*720px;*/
            color:white;
            width:auto;/*100%;*/
            
