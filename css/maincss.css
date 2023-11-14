@@ -34,7 +34,7 @@
 body {
       font-family: Raleway, Helvetica, Arial, sans-serif;
       background-color: #FAEBD7;
-      width:fixed;
+      max-width:91.66%;
       margin:auto;
       
      }
