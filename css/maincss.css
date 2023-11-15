@@ -62,7 +62,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
     }
 
 
-.col-2{
+.col-2{display:flex;
        background-color:#2E8B57; /*#DEB887;*/
        height:250px;
        color:white;
@@ -74,7 +74,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
      }
 
 
-.col-5{ 
+.col-5{ display:flex;
         background-color: #B22222;
         height:560px;
         font-size:12px;
@@ -86,7 +86,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
 
 
-.col-4 {   
+.col-4 {   display:flex;
            background-color: #B22222;
            height:420px;
            color:white;
