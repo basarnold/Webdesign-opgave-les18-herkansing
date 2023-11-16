@@ -164,7 +164,7 @@ header{
        font-size:14px;
        overflow:auto;
        padding-left:15px;
-       with:auto;
+       width:auto;
      }
 
 .col-5{
@@ -173,7 +173,7 @@ header{
         color:white;
         font-size:14px;
         padding-left:15px;
-        widtn:auto;
+        width:auto;
       }
 
 .col-4 {
