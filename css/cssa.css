@@ -296,7 +296,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
             .col-2{margin-left:0;
                    background-color:#2E8B57; /*#DEB887;*/
-                   height:400px;
+                   height:300px;
                    color:white;
                    font-size:16px;
 
@@ -306,7 +306,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
             .col-4{
                    background-color: #B22222;
-                   height:400px;
+                   height:300px;
                    color:white;
                    font-size:16px;
 
@@ -315,7 +315,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
             .col-5 {
                     background-color: #B22222;
-                    height:400px;
+                    height:300px;
                     color:white;
                     font-size:16px;
 
