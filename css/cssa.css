@@ -158,17 +158,16 @@ header{
     }
 
 .col-2{
-       background-color:#2E8B57; /*#DEB887;*/
+       background-color:#2E8B57; 
        height:350px;
        color:white;
        font-size:14px;
-       overflow:auto;
        padding-left:15px;
        width:auto;
      }
 
 .col-5{
-        background-color: #B22222;
+        background-color:#B22222;
         height:350px;
         color:white;
         font-size:14px;
@@ -191,6 +190,7 @@ header{
 
   img
      {
+      float:right; 
       padding:8px;
       border:1px solid white;
       margin:8px;
@@ -205,11 +205,12 @@ header{
         height:175px;
         clear:left;
           }
- footer p  {width:100%;
-              padding-top:50px;
-              font-size:11px;
-              text-align: center;
-              color:white;
+ footer p  {
+            width:100%;
+            padding-top:50px;
+            font-size:11px;
+            text-align: center;
+            color:white;
              }
 
 
